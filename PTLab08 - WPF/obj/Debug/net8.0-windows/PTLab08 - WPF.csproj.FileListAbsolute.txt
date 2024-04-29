@@ -1,0 +1,44 @@
+C:\Users\qsend\source\repos\PTLab08\bin\Debug\net8.0-windows\PTLab08 - WPF.exe
+C:\Users\qsend\source\repos\PTLab08\bin\Debug\net8.0-windows\PTLab08 - WPF.deps.json
+C:\Users\qsend\source\repos\PTLab08\bin\Debug\net8.0-windows\PTLab08 - WPF.runtimeconfig.json
+C:\Users\qsend\source\repos\PTLab08\bin\Debug\net8.0-windows\PTLab08 - WPF.dll
+C:\Users\qsend\source\repos\PTLab08\bin\Debug\net8.0-windows\PTLab08 - WPF.pdb
+C:\Users\qsend\source\repos\PTLab08\obj\Debug\net8.0-windows\CreateForm.g.cs
+C:\Users\qsend\source\repos\PTLab08\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\qsend\source\repos\PTLab08\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\qsend\source\repos\PTLab08\obj\Debug\net8.0-windows\PTLab08 - WPF_MarkupCompile.cache
+C:\Users\qsend\source\repos\PTLab08\obj\Debug\net8.0-windows\PTLab08 - WPF_MarkupCompile.lref
+C:\Users\qsend\source\repos\PTLab08\obj\Debug\net8.0-windows\CreateForm.baml
+C:\Users\qsend\source\repos\PTLab08\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\qsend\source\repos\PTLab08\obj\Debug\net8.0-windows\PTLab08 - WPF.g.resources
+C:\Users\qsend\source\repos\PTLab08\obj\Debug\net8.0-windows\PTLab08 - WPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qsend\source\repos\PTLab08\obj\Debug\net8.0-windows\PTLab08 - WPF.AssemblyInfoInputs.cache
+C:\Users\qsend\source\repos\PTLab08\obj\Debug\net8.0-windows\PTLab08 - WPF.AssemblyInfo.cs
+C:\Users\qsend\source\repos\PTLab08\obj\Debug\net8.0-windows\PTLab08 - WPF.csproj.CoreCompileInputs.cache
+C:\Users\qsend\source\repos\PTLab08\obj\Debug\net8.0-windows\PTLab08 - WPF.dll
+C:\Users\qsend\source\repos\PTLab08\obj\Debug\net8.0-windows\refint\PTLab08 - WPF.dll
+C:\Users\qsend\source\repos\PTLab08\obj\Debug\net8.0-windows\PTLab08 - WPF.pdb
+C:\Users\qsend\source\repos\PTLab08\obj\Debug\net8.0-windows\PTLab08 - WPF.genruntimeconfig.cache
+C:\Users\qsend\source\repos\PTLab08\obj\Debug\net8.0-windows\ref\PTLab08 - WPF.dll
+C:\Users\qsend\source\repos\PTLab08 - WPF\bin\Debug\net8.0-windows\PTLab08 - WPF.exe
+C:\Users\qsend\source\repos\PTLab08 - WPF\bin\Debug\net8.0-windows\PTLab08 - WPF.deps.json
+C:\Users\qsend\source\repos\PTLab08 - WPF\bin\Debug\net8.0-windows\PTLab08 - WPF.runtimeconfig.json
+C:\Users\qsend\source\repos\PTLab08 - WPF\bin\Debug\net8.0-windows\PTLab08 - WPF.dll
+C:\Users\qsend\source\repos\PTLab08 - WPF\bin\Debug\net8.0-windows\PTLab08 - WPF.pdb
+C:\Users\qsend\source\repos\PTLab08 - WPF\obj\Debug\net8.0-windows\CreateForm.g.cs
+C:\Users\qsend\source\repos\PTLab08 - WPF\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\qsend\source\repos\PTLab08 - WPF\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\qsend\source\repos\PTLab08 - WPF\obj\Debug\net8.0-windows\PTLab08 - WPF_MarkupCompile.cache
+C:\Users\qsend\source\repos\PTLab08 - WPF\obj\Debug\net8.0-windows\PTLab08 - WPF_MarkupCompile.lref
+C:\Users\qsend\source\repos\PTLab08 - WPF\obj\Debug\net8.0-windows\CreateForm.baml
+C:\Users\qsend\source\repos\PTLab08 - WPF\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\qsend\source\repos\PTLab08 - WPF\obj\Debug\net8.0-windows\PTLab08 - WPF.g.resources
+C:\Users\qsend\source\repos\PTLab08 - WPF\obj\Debug\net8.0-windows\PTLab08 - WPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qsend\source\repos\PTLab08 - WPF\obj\Debug\net8.0-windows\PTLab08 - WPF.AssemblyInfoInputs.cache
+C:\Users\qsend\source\repos\PTLab08 - WPF\obj\Debug\net8.0-windows\PTLab08 - WPF.AssemblyInfo.cs
+C:\Users\qsend\source\repos\PTLab08 - WPF\obj\Debug\net8.0-windows\PTLab08 - WPF.csproj.CoreCompileInputs.cache
+C:\Users\qsend\source\repos\PTLab08 - WPF\obj\Debug\net8.0-windows\PTLab08 - WPF.dll
+C:\Users\qsend\source\repos\PTLab08 - WPF\obj\Debug\net8.0-windows\refint\PTLab08 - WPF.dll
+C:\Users\qsend\source\repos\PTLab08 - WPF\obj\Debug\net8.0-windows\PTLab08 - WPF.pdb
+C:\Users\qsend\source\repos\PTLab08 - WPF\obj\Debug\net8.0-windows\PTLab08 - WPF.genruntimeconfig.cache
+C:\Users\qsend\source\repos\PTLab08 - WPF\obj\Debug\net8.0-windows\ref\PTLab08 - WPF.dll
