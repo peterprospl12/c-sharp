@@ -1,4 +1,4 @@
-﻿<Window x:Class="PTLab08.MainWindow"
+<Window x:Class="PTLab08.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
@@ -29,7 +29,7 @@
 	    </DockPanel>
 
         <TreeView x:Name="myTreeView" MouseLeftButtonUp="File_Click" Grid.Row="1" Grid.Column="0" SelectedItemChanged="MyTreeView_SelectedItemChanged"/>
-        <TextBox x:Name="fileContentTextBox" Grid.Row="1" Grid.Column="1" IsReadOnly="True" />
+        <TextBox x:Name="fileContentTextBox" Grid.Row="1" Grid.Column="1" IsReadOnly="True" VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Auto"/>
 
         <DockPanel Grid.Row="2" Grid.ColumnSpan="2">
 	        <Label x:Name="attributesLabel" DockPanel.Dock="Bottom"/>
