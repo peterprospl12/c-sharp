@@ -1,0 +1,34 @@
+﻿<Window x:Class="PTLab10___WPF_LINQ.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PTLab10___WPF_LINQ"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <DataGrid x:Name="dataGrid" AutoGenerateColumns="False" CanUserSortColumns="True">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Model" Binding="{Binding Model}" Width="*" />
+                <DataGridTextColumn Header="Year" Binding="{Binding Year}" Width="*"/>
+                <DataGridTextColumn Header="Engine Model" Binding="{Binding Motor.Model}" Width="*"/>
+                <DataGridTextColumn Header="Engine Displacement" Binding="{Binding Motor.Displacement}" Width="*"/>
+                <DataGridTextColumn Header="Engine HorsePower" Binding="{Binding Motor.HorsePower}" Width="*"/>
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Bottom" Margin="0,0,0,40">
+            <ComboBox x:Name="propertiesComboBox" Width="120"/>
+            <TextBox x:Name="comboSearchTextBox" Width="120"/>
+            <ComboBox x:Name="resultComboBox" Width="120" />
+            <Button x:Name="searchComboButton" Click="ComboButton_Click" Width="60" Content="Search"/>
+        </StackPanel>
+
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Bottom" Margin="0,20,0,0">
+            <TextBox x:Name="searchTextBox" TextChanged="SearchTextBox_TextChanged" Width="200" Margin="0,0,20,0"/>
+            <Button Content="Add" Click="AddButton_Click" Margin="0,0,20,0" Width="100" Height="30"/>
+            <Button Content="Edit" Click="EditButton_Click" Margin="0,0,20,0" Width="100" Height="30"/>
+            <Button Content="Delete" Click="DeleteButton_Click" Margin="0,0,20,0" Width="100" Height="30"/>
+        </StackPanel>
+    </Grid>
+</Window>

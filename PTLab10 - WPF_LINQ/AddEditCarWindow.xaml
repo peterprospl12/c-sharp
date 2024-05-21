@@ -1,0 +1,41 @@
+﻿<Window x:Class="PTLab10___WPF_LINQ.AddEditCarWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Add/Edit Car" Height="300" Width="400">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="Auto"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <Label Content="Model:" Grid.Column="0"/>
+        <TextBox Grid.Column="1" Grid.Row="0" Margin="5" Text="{Binding TempModel, UpdateSourceTrigger=PropertyChanged}"/>
+
+        <Label Grid.Column="0" Grid.Row="1" Content="Year:"/>
+        <TextBox Grid.Column="1" Grid.Row="1" Margin="5" Text="{Binding TempYear, UpdateSourceTrigger=PropertyChanged}"/>
+
+        <Label Grid.Column="0" Grid.Row="2" Content="Engine Model:"/>
+        <TextBox Grid.Column="1" Grid.Row="2" Margin="5" Text="{Binding TempEngineModel, UpdateSourceTrigger=PropertyChanged}"/>
+
+        <Label Grid.Column="0" Grid.Row="3" Content="Engine Displacement:"/>
+        <TextBox Grid.Column="1" Grid.Row="3" Margin="5" Text="{Binding TempEngineDisplacement, UpdateSourceTrigger=PropertyChanged}"/>
+
+        <Label Grid.Column="0" Grid.Row="4" Content="Engine HorsePower:"/>
+        <TextBox Grid.Column="1" Grid.Row="4" Margin="5" Text="{Binding TempEngineHorsePower, UpdateSourceTrigger=PropertyChanged}"/>
+
+        <StackPanel Grid.Column="1" Grid.Row="5" Orientation="Horizontal" HorizontalAlignment="Center">
+            <Button Content="Save" Margin="5" Width="80" Click="SaveButton_Click"/>
+            <Button Content="Cancel" Margin="5" Width="80" Click="CancelButton_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>
